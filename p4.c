@@ -45,6 +45,9 @@ int pre(char ch)
     case '(':
         return 0;
         break;
+    default:
+        printf("Unexpected character '%c'\n", ch);
+        return -1;
     }   
 }
 

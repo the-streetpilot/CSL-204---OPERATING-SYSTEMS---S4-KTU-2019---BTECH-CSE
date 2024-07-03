@@ -13,8 +13,10 @@ struct stack
 int pop()
 {
     int x;
-    if (s.top==-1)
+    if (s.top==-1){
         printf("End of operation");
+        return 0;
+    }
     else
     {
         x=s.a[s.top];
@@ -27,7 +29,7 @@ void push(int num)
 {
     if(s.top==s.size-1)
         printf("Overflow");
-    elses
+    else
     {
         s.top++;
         s.a[s.top]=num;
