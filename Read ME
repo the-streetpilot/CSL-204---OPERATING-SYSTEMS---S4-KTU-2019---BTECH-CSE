@@ -28,27 +28,7 @@ Welcome to the repository containing C programs and implementations for the Oper
    - Deadlock Detection and Recovery
    - Deadlock Prevention
 
-## Usage
 
-- Clone this repository to your local machine using:
-  ```bash
-  git clone https://github.com/yourusername/repository-name.git
-  ```
-
-- Navigate to the directory containing the C files:
-  ```bash
-  cd repository-name
-  ```
-
-- Compile the C programs using `gcc` or any other C compiler:
-  ```bash
-  gcc -o program program.c
-  ```
-
-- Run the compiled program:
-  ```bash
-  ./program
-  ```
 
 ## Clarifications
 
