@@ -1,0 +1,67 @@
+
+
+# Operating Systems Lab (CSL 204) - KTU 2019 Syllabus
+
+Welcome to the repository containing C programs and implementations for the Operating Systems lab (CSL 204) as per the KTU 2019 syllabus. This repository includes various practical programs and simulations relevant to Operating Systems concepts.
+
+## Contents
+
+1. **Process Management:**
+   - Process Scheduling (FCFS, SJF, Round Robin)
+   - Process Creation and Termination
+   - Inter-process Communication (IPC)
+
+2. **Memory Management:**
+   - Memory Allocation Strategies (First-Fit, Best-Fit, Worst-Fit)
+   - Page Replacement Algorithms (FIFO, LRU, Optimal)
+
+3. **File Systems:**
+   - File Allocation Strategies (Contiguous, Linked, Indexed)
+   - Directory Management
+
+4. **Synchronization:**
+   - Producer-Consumer Problem
+   - Dining Philosophers Problem
+   - Readers-Writers Problem
+
+5. **Deadlock:**
+   - Deadlock Detection and Recovery
+   - Deadlock Prevention
+
+## Usage
+
+- Clone this repository to your local machine using:
+  ```bash
+  git clone https://github.com/yourusername/repository-name.git
+  ```
+
+- Navigate to the directory containing the C files:
+  ```bash
+  cd repository-name
+  ```
+
+- Compile the C programs using `gcc` or any other C compiler:
+  ```bash
+  gcc -o program program.c
+  ```
+
+- Run the compiled program:
+  ```bash
+  ./program
+  ```
+
+## Clarifications
+
+For any clarifications or questions about the code, please feel free to use [ChatGPT](https://chat.openai.com) for assistance. The responses from ChatGPT are provided to help you understand the concepts and code better.
+
+## License
+
+This repository is free to use. Feel free to modify, distribute, and use the code as per your needs. No rights are reserved.
+
+## Note
+
+The implementations in this repository follow the KTU 2019 syllabus for the Operating Systems lab (CSL 204). Ensure that you understand the concepts and adapt the code as needed for your specific requirements.
+
+## Contributing
+
+If you would like to contribute to this repository, please fork the repository, make your changes, and submit a pull request. Contributions are welcome!
