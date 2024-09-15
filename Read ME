@@ -1,33 +1,38 @@
 
+# Operating Systems Lab (CSL 204) - KTU 2019 Syllabus (S4)
 
-# Operating Systems Lab (CSL 204) - KTU 2019 Syllabus
-
-Welcome to the repository containing C programs and implementations for the Operating Systems lab (CSL 204) as per the KTU 2019 syllabus. This repository includes various practical programs and simulations relevant to Operating Systems concepts.
+Welcome to the repository containing C programs and simulations for the Operating Systems lab (CSL 204) as per the KTU 2019 syllabus for the fourth semester. This repository includes various practical exercises to help you grasp core operating system concepts.
 
 ## Contents
 
-1. **Process Management:**
-   - Process Scheduling (FCFS, SJF, Round Robin)
-   - Process Creation and Termination
-   - Inter-process Communication (IPC)
+1. **Process Scheduling:**
+   - First-Come, First-Served (FCFS)
+   - Shortest Job First (SJF)
+   - Round Robin Scheduling
+   - Priority Scheduling
 
 2. **Memory Management:**
-   - Memory Allocation Strategies (First-Fit, Best-Fit, Worst-Fit)
+   - First-Fit, Best-Fit, and Worst-Fit Allocation
    - Page Replacement Algorithms (FIFO, LRU, Optimal)
 
-3. **File Systems:**
-   - File Allocation Strategies (Contiguous, Linked, Indexed)
-   - Directory Management
-
-4. **Synchronization:**
-   - Producer-Consumer Problem
-   - Dining Philosophers Problem
-   - Readers-Writers Problem
-
-5. **Deadlock:**
-   - Deadlock Detection and Recovery
+3. **Deadlock Handling:**
+   - Deadlock Detection
+   - Deadlock Avoidance (Banker’s Algorithm)
    - Deadlock Prevention
 
+4. **Inter-process Communication (IPC):**
+   - Shared Memory
+   - Message Passing
+   - Semaphores
+
+5. **Synchronization:**
+   - Producer-Consumer Problem
+   - Dining Philosophers Problem
+   - Reader-Writer Problem
+
+6. **File Systems:**
+   - File Allocation Methods (Contiguous, Linked, Indexed)
+   - Directory Management
 
 
 ## Clarifications
@@ -40,7 +45,7 @@ This repository is free to use. Feel free to modify, distribute, and use the cod
 
 ## Note
 
-The implementations in this repository follow the KTU 2019 syllabus for the Operating Systems lab (CSL 204). Ensure that you understand the concepts and adapt the code as needed for your specific requirements.
+The implementations in this repository follow the KTU 2019 syllabus for the Operating Systems lab (CSL 204). Ensure that you understand the concepts and adapt the code as needed for your specific lab requirements.
 
 ## Contributing
 
